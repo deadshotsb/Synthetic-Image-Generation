@@ -4,5 +4,3 @@ This repository deals with synthetic image generation using Deep Convoluted Gene
 
 This dataset primarily uses DCGAN(Deep Convoluted Generative Adverserial Network).
 
-The repository uses the following librries:-
-1. tensorflow
