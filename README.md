@@ -13,8 +13,7 @@ The project uses the following packages:-
   <li> numpy </li>
   <li> pandas </li>
   <li> matplotlib </li>
-  <li> sklearn </li>
-  <li> seaborn </li>
+  <li> tensorflow </li>
 </ul>
 
 ## Local Machine installation ##
