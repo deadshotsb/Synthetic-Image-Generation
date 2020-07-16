@@ -10,9 +10,6 @@ This project uses **Python 3.x**, so a suitable python version (>=3.6) is advisa
 
 The project uses the following packages:- 
 <ul>
-  <li> numpy </li>
-  <li> pandas </li>
-  <li> matplotlib </li>
   <li> tensorflow </li>
 </ul>
 
