@@ -8,7 +8,7 @@ This dataset primarily uses DCGAN(Deep Convoluted Generative Adverserial Network
 
 This project uses **Python 3.x**, so a suitable python version (>=3.6) is advisable.
 
-The project uses the following packages:- 
+The project uses the following frameworks:- 
 <ul>
   <li> tensorflow </li>
 </ul>
