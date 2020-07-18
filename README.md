@@ -33,8 +33,6 @@ This is a Computer Vision Project which uses deep convoluted neural network to g
 
 There are two working files and an image file in this repository.
 
-The Comma Separated Value (Border-Crossing-Entry-Data.csv) file contains the entire dataset.
-
 The Jupyter notebook (IRIS_Classification.ipynb) file contains the project.
 
 The image(.png) file is used to supplement the Jupyter notebook. (Source : Google images)
