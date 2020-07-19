@@ -24,6 +24,7 @@ or `conda`:
 
 ## Project Motivation ## 
 
+The Max-min strategy of GAN was very interesting which led me to this project.
 
 ## Summary of the Result ##
 
