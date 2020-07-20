@@ -32,11 +32,6 @@ This is a Computer Vision Project which uses deep convoluted neural network to g
 
 ##  File Descriptions ##
 
-There are two working files and an image file in this repository.
-
-The Jupyter notebook (IRIS_Classification.ipynb) file contains the project.
-
-The image(.png) file is used to supplement the Jupyter notebook. (Source : Google images)
 
 ## Source code ## 
 
