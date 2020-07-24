@@ -13,7 +13,7 @@ The project uses the following frameworks:-
 </ul>
 
 ## Local Machine installation ##
-If you do not have a working installation of these packages, the easiest way to install scikit-learn is using `pip`
+If you do not have a working installation of these packages, the easiest way to install is using `pip`
 
 `pip install <package name >`
 
