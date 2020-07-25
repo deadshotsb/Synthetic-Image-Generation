@@ -31,7 +31,7 @@ This is a Computer Vision Project which uses deep convoluted neural network to g
 
 ##  File Descriptions ##
 
-There ar two files
+There are two files plotly.py
 
 ## Source code ## 
 
