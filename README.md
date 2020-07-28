@@ -23,7 +23,7 @@ or `conda`:
 
 ## Project Motivation ## 
 
-The Max-min strategy of GAN was very interesting which led me to this project.
+The Max-min strategy of GAN was very interesting which led me to this project. There are two neural networks competing with each other.
 
 ## Summary of the Result ##
 
